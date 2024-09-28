@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+VirtualEnv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+client_secret.json
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Assets (if temporary/generated files exist here)
+assets/
+
+# Test and temporary data
+testdata/
+
+# Logs and other temporary files
+*.log
+*.tmp
+
+# Sphinx documentation
+docs/_build/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Editor configurations (optional)
+.vscode/
+.idea/
+*.swp
+*.swo

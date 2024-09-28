@@ -1,0 +1,4 @@
+[profile.release]
+opt-level = 1  # Lower the optimization level
+[build]
+jobs = 1
