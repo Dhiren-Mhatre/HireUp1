@@ -5,5 +5,3 @@
 5. Add assets folder
 6. Finally flask run to start the server
 
-#Check out this video for overall guide:
-https://youtu.be/CphVOnBUkg4
