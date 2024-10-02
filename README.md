@@ -2,6 +2,14 @@
 
 HireUp is a Resume Ranking System designed to streamline the recruitment process by leveraging advanced algorithms to rank resumes based on their content and relevance to job descriptions. This application is built to assist HR professionals and recruiters in quickly identifying suitable candidates from a pool of applicants.
 
+## Working Videos
+### Demo Video 1
+[![Watch the video](https://www.youtube.com/watch?v=urpjE5Osdzg)
+
+### Demo Video 2
+[![Watch the video](https://www.youtube.com/watch?v=T6NZDpA29eg)
+
+
 ## Tech Stack
 
 - **Backend**:
